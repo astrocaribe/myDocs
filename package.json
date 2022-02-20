@@ -1,0 +1,19 @@
+{
+  "name": "myDocs",
+  "version": "0.0.1",
+  "description": "Learner project to save and display my documentation.",
+  "main": "index.js",
+  "authors": {
+    "name": "Tommy LeBlanc",
+    "email": "tlcommodore@gmail.com"
+  },
+  "repository": "https://github.com/astrocaribe/myDocs.git/myDocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
